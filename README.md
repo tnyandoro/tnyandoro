@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on JavaScript, React, C# and Ruby on Rails Project
 - 💬 Ask me about Web/Software Development
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: YoEmail has been around longer than the World Wide Web.
+- ⚡ Fun fact: PCs went by the name “Electronic Brains” in the 1950s..
 - Email: tnyandoro@gmail.com
 
 <h2>My Specialties include:</h2>
