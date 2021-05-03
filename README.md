@@ -9,7 +9,7 @@
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m a Full-Stack Software Developer (Ruby, Ruby on Rails, JavaScript and React & Redux)
 - 👯 I’m looking to collaborate on JavaScript, React, C# and Ruby on Rails Project
-- 💬 Ask me about Web/Software Development
+- 💬 Ask me about Business and Web/Software Development
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: PCs went by the name “Electronic Brains” in the 1950s..
 - Email: tnyandoro@gmail.com
