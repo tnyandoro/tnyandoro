@@ -36,8 +36,6 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-764ABC?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/tested_with-jest-99424f.svg)" >
-  <img alt="Bootstrap" src="https://github.com/facebook/jest" >
   <img alt= "Bootstrap" src="https://jestjs.io/img/jest-badge.svg">
 </p>
 
