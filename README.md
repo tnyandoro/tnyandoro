@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/tendai-nyandoro/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/tendainyandoro" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://tnyandoro@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
 </p>
 
 - 🔭 I’m currently a full time student at Microverse Inc.
@@ -35,6 +36,9 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-764ABC?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/tested_with-jest-99424f.svg)" >
+  <img alt="Bootstrap" src="https://github.com/facebook/jest" >
+  <img alt= "Bootstrap" src="https://jestjs.io/img/jest-badge.svg">
 </p>
 
 [![Tendai Nyandoro's github stats](https://github-readme-stats.vercel.app/api?username=tnyandoro&show_icons=true&theme=radical)](https://github.com/acushlakoncept/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnyandoro&show_icons=true&theme=radical&layout=compact)](https://github.com/tnyandoro/github-readme-stats)
