@@ -7,7 +7,7 @@
   
 </p>
 
-- 🔭 I’m currently a full time student at Microverse Inc.
+- 🔭 I’m currently a full time fullstack devoper.
 - 🌱 I’m a Full-Stack Software Developer (Ruby, Ruby on Rails, JavaScript and React & Redux)
 - 👯 I’m looking to collaborate on JavaScript, React, C# and Ruby on Rails Project
 - 💬 Ask me about Business and Web/Software Development
