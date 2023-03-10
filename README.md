@@ -38,4 +38,3 @@
   <img alt= "Bootstrap" src="https://jestjs.io/img/jest-badge.svg">
 </p>
 
-[![Tendai Nyandoro's github stats](https://github-readme-stats.vercel.app/api?username=tnyandoro&show_icons=true&theme=radical)](https://github.com/acushlakoncept/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnyandoro&show_icons=true&theme=radical&layout=compact)](https://github.com/tnyandoro/github-readme-stats)
